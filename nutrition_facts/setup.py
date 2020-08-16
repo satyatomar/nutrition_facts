@@ -8,7 +8,7 @@ def readme():
 
 setup(
     name="nutrition-facts",
-    version="0.0.1",
+    version="0.0.2",
     description="A Python package to get nutrition facts.",
     long_description=readme(),
     long_description_content_type="text/markdown",
