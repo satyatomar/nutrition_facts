@@ -1,0 +1,7 @@
+MANIFEST.in
+README.md
+setup.py
+nutrition--facts/nutrition_facts.egg-info/PKG-INFO
+nutrition--facts/nutrition_facts.egg-info/SOURCES.txt
+nutrition--facts/nutrition_facts.egg-info/dependency_links.txt
+nutrition--facts/nutrition_facts.egg-info/top_level.txt
