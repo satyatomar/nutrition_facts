@@ -14,7 +14,7 @@ setup(
     long_description_content_type="text/markdown",
     url="https://github.com/satyatomar/nutrition_facts.git",
     author="satyapal singh tomar",
-    author_email="er.satyatomar@@gmail.com",
+    author_email="er.satyatomar@gmail.com",
     py_modules=["nutrition_facts"],
     classifiers=[
         "License :: OSI Approved :: MIT License",
